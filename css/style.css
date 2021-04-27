@@ -1,0 +1,367 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+.header_specialists{
+
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #B5CA00;
+}
+.header_schedule{
+
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #000000;
+}
+.header_photo{
+    width: 58.3%;
+    min-height: 532px;
+
+    background: url('../img/cleaner1_21-copy 1.png') no-repeat;
+}
+.suggestion_title{
+    margin-top: 50px;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+
+    color: #000000;
+    margin-bottom: 50px;
+
+}
+.header_button{
+    width: 295px;
+    height: 60px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+
+    background: #B5CA00;
+    border-radius: 4px;
+    color: white;
+
+    margin-top: 15px;
+}
+.suggestion_hand{
+    width: 106px;
+    height: 95px;
+
+    background: url('../img/Hand-money 1.png');
+}
+.suggestion_text1{
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+.suggestion_block{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.header_infoBlock{
+    display: flex;
+    justify-content: center;
+    /*align-items: center;*/
+    flex-direction: column;
+}
+.myrow {margin-left: 0!important; margin-right: 0!important;}
+.mycol {padding-left: 0!important; padding-right:0!important;}
+
+.suggestion_line{
+    width: 94px;
+    height: 0px;
+
+    border: 1px solid #F6C6CF;
+}
+.suggestion_img_block{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.suggestion_info{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+    padding: 20px;
+
+}
+.margin_20_t{
+    margin-top: 20px;
+}
+.team_title{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+
+    text-align: center;
+    margin-top: 50px;
+}
+.team_text{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+
+    color: #000000;
+    margin-bottom: 20px;
+
+}
+.team_lilText{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+.team_img{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.anket_title_block{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.anket_title_block > h1{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+
+    padding-top: 25px;
+}
+.anket_form_col{
+    position: relative;
+    height: 500px;
+    background: #8664C6;
+}
+.anket_form_col > img{
+    position: absolute;
+    bottom: 0;
+    left: 200px;
+}
+.anket_form_block1{
+    position: absolute;
+    right: 700px;
+    top: 100px;
+    width: 300px;
+}
+.anket_form_block2{
+    position: absolute;
+    right: 300px;
+    top: 100px;
+    width: 300px;
+}
+.anket_form_block3{
+    position: absolute;
+    right: 700px;
+    top: 200px;
+    width: 300px;
+}
+.anket_form_block4{
+    position: absolute;
+    right: 300px;
+    top: 200px;
+    width: 300px;
+}
+.anket_button{
+    position: absolute;
+    width: 300px;
+    height: 60px;
+    right: 300px;
+    top: 350px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+
+    background: #B5CA00;
+    border-radius: 4px;
+    color: white;
+}
+.faq_title{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.label_style{
+    font-family: Roboto;
+}
+.faq_question > h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+}
+.faq_question > p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+.faq_question{
+    margin-bottom: 20px;
+}
+.faq_col > button{
+    width: 295px;
+    height: 60px;
+    text-align: center;
+
+    background: #B5CA00;
+    border-radius: 4px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+.header_logo{
+    display: none;
+}
+@media (max-width: 576px) {
+    .header_photo{
+        width: 100%;
+        height: 536px;
+
+        background: url('../img/cleaner1_117 copy 1.png') no-repeat;
+        margin-bottom: 100px;
+    }
+    .anket_form_col > img{
+        display: none;
+    }
+    .header_row{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .header_row  {
+        position: relative;
+    }
+    .header_row .header_photo{
+
+    }
+    .header_logo{
+        display: block;
+        position: absolute;
+        z-index: 2;
+        top: 280px;
+        left: 80px;
+    }
+    .header_infoBlock{
+
+    }
+    .header_button{
+        position: absolute;
+        top: 340px;
+    }
+    .header_block{
+        position: absolute;
+        width: 294px;
+        top: 450px;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 10px;
+        text-align: center;
+    }
+    .header_schedule{
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 28px;
+        line-height: 33px;
+
+        color: #333333;
+    }
+    .header_specialists{
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+
+
+        color: #B5CA00;
+
+    }
+    .anket_title_block{
+        align-items: center;
+        justify-content: center;
+    }
+    .anket_form_block1{
+        left: 10px;
+        top: 20px;
+    }
+    .anket_form_block2{
+        left: 10px;
+        top: 100px;
+    }
+    .anket_form_block3{
+        left: 10px;
+        top: 180px;
+    }
+    .anket_form_block4{
+        left: 10px;
+        top: 260px;
+    }
+    .anket_button{
+        left: 10px;
+        top: 400px;
+    }
+}
+
